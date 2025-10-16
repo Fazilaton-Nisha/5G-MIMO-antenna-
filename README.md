@@ -1,2 +1,1 @@
-Design and Simulation of a 4×4 MIMO Antenna with Complementary Split Ring Resonator (CSRR) for Dual-Band Operation
-a MIMO antenna for a 5G Base Station have been designed to operate at 1.8 GHz
+Designed and analyzed a 4×4 MIMO antenna system integrated with a Complementary Split Ring Resonator (CSRR) structure to achieve dual-band operation at 1.8 GHz and 2.4 GHz. The antenna was modeled and simulated using CST Microwave Studio to evaluate its performance in terms of S-parameters, gain, and efficiency.
